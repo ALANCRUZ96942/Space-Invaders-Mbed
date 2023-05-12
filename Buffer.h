@@ -27,10 +27,12 @@ void draw_ship(uint8_t* buffer, uint8_t x, uint8_t y);
 //dibujar todos los enemigos
 void draw_all_enemies(uint8_t* buffer,uint8_t posiciones[15][3]);
 
-//pantalla de pausa
+//pantalla de pausa/inicio
 void draw_pause_screen(uint8_t* buffer);
-//dibujar pantalla de inicio
-void draw_game(uint8_t* buffer);
+
 //dibujar pantalla de game over
 void draw_gameOver(uint8_t* buffer);
+
+//dibujar pantalla de ganar
+void draw_gameWin(uint8_t* buffer);
 #endif /* BUFFER_H_ */

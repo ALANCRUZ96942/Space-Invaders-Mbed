@@ -442,6 +442,16 @@
               <FileType>5</FileType>
               <FilePath>.\PF_pin.h</FilePath>
             </File>
+            <File>
+              <FileName>I2C_ACCEL.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\I2C_ACCEL.c</FilePath>
+            </File>
+            <File>
+              <FileName>I2C_ACCEL.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\I2C_ACCEL.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

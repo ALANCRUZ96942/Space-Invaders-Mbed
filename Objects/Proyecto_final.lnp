@@ -5,6 +5,7 @@
 ".\objects\pf_main.o"
 ".\objects\pf_timmer.o"
 ".\objects\pf_pin.o"
+".\objects\i2c_accel.o"
 ".\objects\i2c_lpc17xx.o"
 ".\objects\ssp_lpc17xx.o"
 ".\objects\gpdma_lpc17xx.o"
